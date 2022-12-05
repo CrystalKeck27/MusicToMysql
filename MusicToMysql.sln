@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicToMysql", "MusicToMysql\MusicToMysql.csproj", "{560A7859-8DDF-499A-BEF7-AE77694AB884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlSongComparator", "MysqlSongComparator\MysqlSongComparator.csproj", "{861035C9-5EBC-4A84-A4E2-8A47B2025599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongMatcher", "SongMatcher\SongMatcher.csproj", "{AA654B77-E06F-48AD-8C24-03758ED95C98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{560A7859-8DDF-499A-BEF7-AE77694AB884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560A7859-8DDF-499A-BEF7-AE77694AB884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560A7859-8DDF-499A-BEF7-AE77694AB884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861035C9-5EBC-4A84-A4E2-8A47B2025599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861035C9-5EBC-4A84-A4E2-8A47B2025599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861035C9-5EBC-4A84-A4E2-8A47B2025599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861035C9-5EBC-4A84-A4E2-8A47B2025599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA654B77-E06F-48AD-8C24-03758ED95C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA654B77-E06F-48AD-8C24-03758ED95C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA654B77-E06F-48AD-8C24-03758ED95C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA654B77-E06F-48AD-8C24-03758ED95C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
